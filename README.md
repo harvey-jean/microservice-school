@@ -47,4 +47,4 @@ API Gateway for routing requests to appropriate microservices.
 Configuration details for the project.
 
 ## High-Level Architecture
-![Microservice-1.png](..%2F..%2F..%2FPictures%2FMicroservice-1.png)
+![high-level-architecture.png](docs%2Fimages%2Fhigh-level-architecture.png)
